@@ -1,32 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000000,50:003b00,100:00ff41&text=X4R&fontSize=80&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Self-Hosting%20%E2%80%A2%20OSINT&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="X4R" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:000000,50:003b00,100:00ff41&text=X4R&fontSize=80&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20SysAdmin%20%E2%80%A2%20OSINT%20Analyst&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="X4R" />
 
 <p align="center">
   <a href="https://codicecuba.org">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+Desarrollo+web+full-stack;%3E+APIs+REST+con+Python+y+Flask;%3E+Servidores+Linux+autogestionados;%3E+OSINT+y+an%C3%A1lisis+de+campa%C3%B1as+de+phishing;%3E+Seguridad+por+dise%C3%B1o" alt="Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=640&lines=%3E+Full-Stack+Development;%3E+REST+API+Design+%C2%B7+Python+%C2%B7+Flask;%3E+Linux+Systems+Administration;%3E+Open-Source+Intelligence+%28OSINT%29;%3E+Threat+Intelligence+%C2%B7+Phishing+Analysis;%3E+Security+by+Design" alt="Typing" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://codicecuba.org"><img src="https://img.shields.io/badge/CODICE-codicecuba.org-00ff41?style=for-the-badge&labelColor=000000&logo=githubpages&logoColor=00ff41" alt="CODICE"></a>
-  <img src="https://img.shields.io/badge/status-online-00ff41?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00ff41" alt="Online">
+  <img src="https://img.shields.io/badge/status-production-00ff41?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00ff41" alt="Production">
 </p>
 
 ---
 
-## 🔦 Proyecto destacado
+## 🔦 Proyecto principal
 
 ### [CODICE](https://codicecuba.org) — Cuba · OSINT sobre Delincuentes Informáticos y Campañas de Estafa
 
-Plataforma comunitaria para documentar y analizar phishing, suplantaciones y estafas digitales en Cuba, con un panel de investigación para el equipo de moderación.
+Plataforma colaborativa de inteligencia de amenazas para la documentación, correlación y análisis de campañas de phishing, suplantación de identidad y fraude digital en Cuba.
 
 | Módulo | Descripción |
 | :-- | :-- |
-| 🧠 **Análisis** | Motor que relaciona casos por indicadores compartidos y sugiere campañas |
-| 🕸️ **Visualización** | Grafo de relaciones y mapa interactivo en SVG |
-| 🛡️ **Moderación** | Roles y permisos, cola de revisión, expedientes, cadena de custodia y veredictos |
-| 🔐 **Seguridad** | 2FA (TOTP), Argon2, detección y bloqueo automático de ataques |
-| 🖥️ **Infraestructura** | Servidor propio 24/7, respaldos cifrados y app de monitorización |
-| 🌐 **Interfaz** | Responsive, modo oscuro/claro y bilingüe (ES/EN) |
+| 🧠 **Motor de correlación** | Correlación de incidentes mediante indicadores de compromiso (IoC) y detección de campañas |
+| 🕸️ **Análisis de vínculos** | Grafos de relaciones entre casos, campañas e indicadores; geovisualización de incidentes |
+| 🛡️ **Gestión de casos** | Control de acceso basado en roles (RBAC), flujo de revisión, expedientes, cadena de custodia y veredictos |
+| 🔐 **Seguridad** | Autenticación multifactor (TOTP), hashing Argon2id, CSP, rate limiting y detección de intrusiones |
+| 🖥️ **Infraestructura** | Despliegue self-hosted 24/7, copias de seguridad cifradas y monitorización del servidor |
+| ⚙️ **Arquitectura** | API REST desacoplada, SPA en JavaScript nativo e internacionalización (i18n) |
 
 ---
 
@@ -48,8 +48,8 @@ Plataforma comunitaria para documentar y analizar phishing, suplantaciones y est
   <br>
   <img src="https://img.shields.io/badge/2FA_TOTP-000000?style=for-the-badge&logo=authy&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Argon2-5C2D91?style=for-the-badge&logo=letsencrypt&logoColor=white" />
-  <img src="https://img.shields.io/badge/UFW_Firewall-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/restic-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/UFW-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/restic_(backups)-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
@@ -57,7 +57,7 @@ Plataforma comunitaria para documentar y analizar phishing, suplantaciones y est
 
 ---
 
-## 📊 Actividad
+## 📊 Actividad en GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=xar4431&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" alt="Estadísticas">
